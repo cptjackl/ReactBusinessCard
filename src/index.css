@@ -1,0 +1,80 @@
+body{
+  background-color: #23252C;
+  max-width: 317px;
+  font-family: "Inter", sans-serif;
+}
+
+main{
+  padding-bottom: 25px;
+  text-align: center;
+  color: white;
+  background: #1A1B21;
+}
+
+main > img{
+  max-width: 100%;
+}
+
+main > h1{
+  margin:0px;
+  margin-top: 20px;
+}
+
+main > span{
+  color: #F3BF99;
+  font-size: 12px;
+}
+
+main > p {
+  font-size: 10px;
+}
+
+.buttons-box{
+  display: flex;
+  justify-content: center;
+}
+
+main button{
+  margin: 10px;
+  padding: 10px 20px;
+  height: 34px;
+  width: 115px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+main button img{
+  width: 16px;
+}
+
+.button-linkedin{
+  background-color: #5093E2;
+  color: white;
+}
+
+.content{
+  padding: 10px 35px 0px 35px;
+  text-align: left;
+  font-size: 10.24px;
+  line-height: 15px;
+}
+
+.content > h2{
+  margin-bottom: 5px;
+}
+
+.content > p{
+  margin-bottom: 0px;
+}
+
+footer{
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #161619;
+}
+footer > img {
+  max-width: 25px;
+}

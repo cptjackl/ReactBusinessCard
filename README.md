@@ -1,0 +1,1 @@
+A small static react componet exercises to practice using react and jsx.
